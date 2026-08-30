@@ -1,75 +1,64 @@
 # 🌸 EmpowHer
 
 <p align="center">
-  <img src="assets/logo.png" alt="EmpowHer Logo" width="180"/>
+  <img src="app/src/main/res/drawable/LOGO.png" alt="EmpowHer Logo" width="220"/>
 </p>
 
 <h3 align="center">
-Every voice. Every story. Every woman.
+  Every voice. Every story. Every woman.
 </h3>
 
 <p align="center">
-A women safety and empowerment platform designed to raise awareness, report injustice, share experiences, and build a safer community.
+  A women safety and empowerment platform designed to raise awareness,
+  report injustice, share experiences, and build a safer community.
 </p>
 
 ---
 
-## 📌 About The Project
+## 📱 About The Project
 
-**EmpowHer** is a digital safety and empowerment platform focused on creating a secure space for women to speak, share, and seek support.
+**EmpowHer** is a women safety and empowerment Android application
+designed with a focus on awareness, reporting injustice, community
+support, and personal safety.
 
-The platform allows users to report harassment, abuse, and injustice with evidence while spreading awareness and building a supportive community.
+The platform provides women with a digital space where they can:
 
-The mission of EmpowHer is to ensure that every woman's voice is heard and every story matters.
+- 🚨 Report harassment, abuse, and injustice
+- 📸 Upload evidence and supporting materials
+- 📢 Share awareness posts and real-life experiences
+- 🛡️ Access safety resources
+- 🤝 Seek community support
+- 📚 Learn about women's rights and safety
 
----
-
-## 🎯 Vision
-
-> Creating a safer digital community where every woman can speak, share, and seek support without fear.
-
----
-
-# ✨ Features
-
-## 🛡️ Women's Safety
-
-- Emergency SOS support
-- Trusted contact management
-- Safety guidelines and resources
-- Personal security tools
+> **Every voice. Every story. Every woman.**
 
 ---
 
-## 🚨 Report & Awareness System
+## ✨ Features
 
-- Report harassment, abuse, and injustice
-- Upload evidence (Images, Videos, Documents)
-- Anonymous reporting option
-- Awareness posts and campaigns
-- Community-driven support
+### 🛡️ Women's Safety
 
----
+- Emergency SOS
+- Trusted contacts
+- Safety tips and guidelines
+- Personal safety resources
 
-## 💬 Community Platform
+### 🚨 Report & Awareness
 
-- Share personal experiences
-- Create awareness posts
-- Comment and react
-- Support survivors through community engagement
+- Report incidents
+- Upload images, videos, and documents as evidence
+- Awareness posts
+- Anonymous reporting
+- Report tracking
 
----
+### 💬 Community
 
-## 📌 Case Management
+- Share experiences
+- Awareness content
+- Community interaction
+- Support other users
 
-- Track submitted reports
-- View report status
-- Receive updates
-- Moderator verification system
-
----
-
-## 📚 Awareness Hub
+### 📚 Awareness Hub
 
 - Women's rights information
 - Safety education
@@ -78,182 +67,49 @@ The mission of EmpowHer is to ensure that every woman's voice is heard and every
 
 ---
 
-# 🛠️ Technology Stack
+## 🛠️ Technology Stack
 
-## 📱 Android Application
-
-- Kotlin
-- Android SDK
-- XML / Jetpack Compose
-- MVVM Architecture
-- Coroutines
-- Retrofit
-- Room Database
-- Firebase Authentication
-- Firebase Cloud Firestore
-- Firebase Storage
-- Firebase Cloud Messaging (FCM)
+- **Kotlin**
+- **Android SDK**
+- **XML**
+- **MVVM Architecture**
+- **Coroutines**
+- **Retrofit**
+- **Room Database**
+- **Firebase Authentication**
+- **Firebase Firestore**
+- **Firebase Storage**
+- **Firebase Cloud Messaging (FCM)**
 
 ---
 
-## ☁️ Backend (Planned)
+## 🎨 Brand Identity
 
-- Node.js
-- Express.js
-- MongoDB
-- REST API
-- Firebase Admin SDK
+### Logo
 
----
+<p align="center">
+  <img src="app/src/main/res/drawable/LOGO.png" alt="EmpowHer Logo" width="180"/>
+</p>
 
-# 🎨 Design System
+### App Icon
 
-### Brand Identity
+<p align="center">
+  <img src="app/src/main/res/drawable/AppIcon.png" alt="EmpowHer App Icon" width="120"/>
+</p>
 
-**Primary Color:** `#5B3294`  
-**Secondary Color:** `#E91E63`  
-**Accent Color:** `#FF80AB`  
-**Background:** `#FFF5FA`
+### Splash Screen
 
-The design focuses on:
-- Trust
-- Safety
-- Empowerment
-- Accessibility
+<p align="center">
+  <img src="app/src/main/res/drawable/Splash.png" alt="EmpowHer Splash Screen" width="250"/>
+</p>
 
----
+### Tagline
 
-# 📂 Project Structure
-
-```
-EmpowHer/
-│
-├── app/
-│   ├── activities/
-│   ├── fragments/
-│   ├── adapters/
-│   ├── models/
-│   ├── repository/
-│   ├── viewmodel/
-│   └── utils/
-│
-├── data/
-│   ├── local/
-│   ├── remote/
-│   └── database/
-│
-├── resources/
-│   ├── drawable/
-│   ├── layout/
-│   └── values/
-│
-└── README.md
-```
+> **Every voice. Every story. Every woman.**
 
 ---
 
-# 🚀 Installation & Setup
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/EmpowHer.git
-```
-
-### Open Project
-
-Open the project using:
-
-```
-Android Studio
-```
-
-### Firebase Configuration
-
-1. Create a Firebase project
-2. Register your Android application
-3. Download `google-services.json`
-4. Add it inside:
-
-```
-app/google-services.json
-```
-
-5. Sync Gradle and run the application.
-
----
-
-# 🔮 Future Improvements
-
-- 🤖 AI-based harassment detection
-- 🗺️ Real-time safety map
-- 🏛️ NGO and legal support integration
-- 📞 Emergency hotline integration
-- 🌐 Bangla & English language support
-- 🧠 AI safety assistant chatbot
-- 🔍 Fake report detection system
-- 📍 Location-based emergency alerts
-
----
-
-# 📸 Screenshots
+## 📸 Screenshots
 
 Coming Soon...
 
----
-
-# 👨‍💻 Developer
-
-**Estiak Ahamed Tasin**
-
-Android Developer | MERN Stack Developer
-
-### Skills
-
-- Kotlin
-- Android Development
-- React.js
-- Node.js
-- MongoDB
-- Firebase
-
----
-
-# 🤝 Contribution
-
-Contributions are welcome!
-
-If you have ideas or improvements:
-
-1. Fork this repository
-2. Create a new branch
-
-```bash
-git checkout -b feature/NewFeature
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push your branch
-
-```bash
-git push origin feature/NewFeature
-```
-
-5. Create a Pull Request
-
----
-
-# 📜 License
-
-This project is developed for educational and social awareness purposes.
-
----
-
-<p align="center">
-Made with ❤️ to empower every woman.
-</p>
