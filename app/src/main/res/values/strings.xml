@@ -8,4 +8,17 @@
     <string name="dont_have_account">Don\'t have an account? Sign Up</string>
     <string name="already_have_account">Already have an account? Sign In</string>
     <string name="welcome_message">Welcome to EmpowHer</string>
+
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+
+    <string name="onboarding_title_1">Your Safety Matters</string>
+    <string name="onboarding_desc_1">Stay informed. Stay prepared. Stay safe.</string>
+
+    <string name="onboarding_title_2">Your Voice Matters</string>
+    <string name="onboarding_desc_2">Report injustice. Share your story. Raise awareness.</string>
+
+    <string name="onboarding_title_3">You Are Not Alone</string>
+    <string name="onboarding_desc_3">Find support. Know your rights. Stand stronger. Join a community dedicated to empowerment and safety.</string>
 </resources>
