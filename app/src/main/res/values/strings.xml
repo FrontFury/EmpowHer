@@ -48,4 +48,10 @@
     <string name="already_have_account_label">Already have an account? </string>
     <string name="signup_google">Sign Up with Google</string>
     <string name="password_placeholder">********</string>
+
+    <string name="home">Home</string>
+    <string name="reports">Reports</string>
+    <string name="awareness">Awareness</string>
+    <string name="support">Support</string>
+    <string name="profile">Profile</string>
 </resources>
