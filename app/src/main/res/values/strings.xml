@@ -21,4 +21,31 @@
 
     <string name="onboarding_title_3">You Are Not Alone</string>
     <string name="onboarding_desc_3">Find support. Know your rights. Stand stronger. Join a community dedicated to empowerment and safety.</string>
+
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="signin_desc">Please enter your details to sign in.</string>
+    <string name="email_or_phone">Email or Phone Number</string>
+    <string name="enter_email_or_phone">Enter your email or phone</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or_continue_with">Or continue with</string>
+    <string name="google">Google</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="signup_desc">Fill in the details below to get started securely.</string>
+    <string name="full_name_label">Full Name</string>
+    <string name="full_name_hint">e.g., Nusrat Jahan</string>
+    <string name="email_hint">you@example.com</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="phone_hint">+880</string>
+    <string name="dob">Date of Birth</string>
+    <string name="dob_hint">mm/dd/yyyy</string>
+    <string name="gender">Gender</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="terms_agreement">I agree to the Terms of Service &amp; Privacy Policy</string>
+    <string name="dont_have_account_label">Don\'t have an account? </string>
+    <string name="already_have_account_label">Already have an account? </string>
+    <string name="signup_google">Sign Up with Google</string>
+    <string name="password_placeholder">********</string>
 </resources>
