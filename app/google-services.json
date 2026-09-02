@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "527186014941",
+    "project_id": "empowher-422cc",
+    "storage_bucket": "empowher-422cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527186014941:android:9340ec45bf9852b496e134",
+        "android_client_info": {
+          "package_name": "com.example.empowher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527186014941-29jippons96nkgg0cm7tklq9s1n7he8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.empowher",
+            "certificate_hash": "1f4562c034ac34101d211b1ac9f130fa79198dd6"
+          }
+        },
+        {
+          "client_id": "527186014941-qnrj6fb642ee222e85qaqui4qros5muf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGTgdJzBh2qIAVZCybKEIlJ-sMXcjPeNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527186014941-qnrj6fb642ee222e85qaqui4qros5muf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

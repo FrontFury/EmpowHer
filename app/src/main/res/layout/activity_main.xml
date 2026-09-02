@@ -23,8 +23,6 @@
         app:menu="@menu/bottom_nav_menu"
         app:labelVisibilityMode="labeled"
         app:itemIconTint="@color/bnv_item_color"
-        app:itemTextColor="@color/bnv_text_color"
-        app:itemActiveIndicatorStyle="@style/Widget.Material3.BottomNavigationView.ActiveIndicator"
-        app:itemActiveIndicatorColor="@color/primary" />
+        app:itemTextColor="@color/bnv_text_color" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
