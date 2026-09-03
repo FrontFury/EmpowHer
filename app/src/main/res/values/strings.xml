@@ -137,4 +137,49 @@
     <string name="official_advisory">Official Advisory • Updated</string>
     <string name="helpline_info">National Helpline 109\nDirect Police Support</string>
     <string name="ipc_info">Section 509 IPC\nStrict Penalties</string>
+
+    <string name="profile_settings">Profile &amp; Settings</string>
+    <string name="identity_verified">Identity Protected &amp; Verified</string>
+    <string name="user_location_info">Dhaka Metropolitan Area • Member since March 2023</string>
+
+    <string name="active_reports">Active Reports</string>
+    <string name="under_review_label">Under Review</string>
+    <string name="saved_guides">Saved Guides</string>
+    <string name="guides_desc">Self-Defense &amp; Legal</string>
+    <string name="trusted_contacts">Trusted Contacts</string>
+    <string name="contacts_desc">Instant SOS Sync</string>
+
+    <string name="safety_emergency">SAFETY &amp; EMERGENCY</string>
+    <string name="emergency_contacts">Trusted Emergency Contacts</string>
+    <string name="emergency_contacts_desc">Mother, Sister (+880 18XX, +880 19XX)</string>
+    <string name="active">Active</string>
+    <string name="sos_settings">Emergency SOS Settings &amp; Trigger</string>
+    <string name="sos_settings_desc">Triple-click power button, auto-dial 999</string>
+
+    <string name="activity_submissions">ACTIVITY &amp; SUBMISSIONS</string>
+    <string name="my_incident_reports">My Incident Reports &amp; Case Updates</string>
+    <string name="incident_reports_desc">2 active tracking inquiries with legal desk</string>
+    <string name="my_stories_drafts">My Published Stories &amp; Drafts</string>
+    <string name="stories_drafts_desc">1 community story shared anonymously</string>
+    <string name="saved_awareness_guides">Saved Awareness &amp; Guides</string>
+    <string name="awareness_guides_desc">Legal rights, cyber safety, emergency hotlines</string>
+
+    <string name="privacy_security">PRIVACY &amp; SECURITY</string>
+    <string name="anonymous_mode">Anonymous Reporting Mode</string>
+    <string name="anonymous_mode_desc">Strip personal identifiers from case logs</string>
+    <string name="location_sharing">Location Sharing &amp; Privacy Controls</string>
+    <string name="location_sharing_desc">Shared only when SOS triggered or traveling late</string>
+    <string name="biometric_security">Biometric &amp; Password Security</string>
+    <string name="biometric_security_desc">Fingerprint unlock enabled - Changed 1m ago</string>
+
+    <string name="support_about">SUPPORT &amp; ABOUT</string>
+    <string name="help_center">Help Center &amp; 24/7 Helpline</string>
+    <string name="help_center_desc">Dhaka Metropolitan Police &amp; Legal AID FAQs</string>
+    <string name="community_guidelines">Community Guidelines &amp; Terms</string>
+    <string name="community_guidelines_desc">Safe speech, confidentiality commitments</string>
+    <string name="about_empowher">About EmpowHer</string>
+    <string name="about_empowher_desc">v1.0.0 Bangladesh (Dhaka Initiative)</string>
+
+    <string name="logout">Log Out of Account</string>
+    <string name="quick_sos">Quick SOS</string>
 </resources>
