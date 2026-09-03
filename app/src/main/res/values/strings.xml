@@ -74,4 +74,25 @@
     <string name="desc_profile">Profile Image</string>
     <string name="desc_notification">Notifications</string>
     <string name="desc_awareness">Awareness Image</string>
+
+    <string name="my_reports">My Reports</string>
+    <string name="reports_subtitle">Confidential tracking &amp; legal response progress</string>
+    <string name="encrypted_badge">256-bit Encrypted &amp; Discretionary</string>
+    <string name="report_banner_title">Need to report a new incident?</string>
+    <string name="report_banner_desc">Submit securely. You can choose to file privately or remain 100% anonymous.</string>
+    <string name="all_reports">All Reports (%1$d)</string>
+    <string name="under_review">Under Review (%1$d)</string>
+    <string name="action_required">Action Required</string>
+
+    <string name="incident_progression">Incident Progression</string>
+    <string name="submitted">Submitted</string>
+    <string name="status_under_review">Under Review</string>
+    <string name="action_taken">Action Taken</string>
+    <string name="resolved">Resolved</string>
+    <string name="view_timeline">View Timeline</string>
+    <string name="view_response">View Response</string>
+    <string name="official_resolution">Official Resolution</string>
+
+    <string name="hotline_title">Emergency Hotline &amp; Instant Legal Consultation</string>
+    <string name="hotline_desc">Need immediate safety intervention? Dial national helpline 109 or call our 24/7 advocate desk.</string>
 </resources>
