@@ -54,4 +54,24 @@
     <string name="awareness">Awareness</string>
     <string name="support">Support</string>
     <string name="profile">Profile</string>
+
+    <string name="good_morning">Good Morning!</string>
+    <string name="stay_safe_stay_strong">Stay Safe • Stay Strong</string>
+    <string name="emergency_help">Emergency Help</string>
+    <string name="emergency_desc">Pressing this button will alert your emergency contacts and local authorities immediately.</string>
+    <string name="sos">SOS</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="report_incident">Report Incident</string>
+    <string name="share_story">Share Story</string>
+    <string name="safety_tips">Safety Tips</string>
+    <string name="know_your_rights">Know Your Rights</string>
+    <string name="get_help">Get Help</string>
+    <string name="latest_awareness">Latest Awareness</string>
+    <string name="view_all">View All</string>
+    <string name="workshop">WORKSHOP</string>
+    <string name="awareness_title_1">Understanding Workplace Harassment Laws</string>
+    <string name="awareness_desc_1">Join our upcoming seminar detailing the new protective guidelines for female employees in corporate sectors.</string>
+    <string name="desc_profile">Profile Image</string>
+    <string name="desc_notification">Notifications</string>
+    <string name="desc_awareness">Awareness Image</string>
 </resources>
