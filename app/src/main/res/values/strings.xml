@@ -95,4 +95,46 @@
 
     <string name="hotline_title">Emergency Hotline &amp; Instant Legal Consultation</string>
     <string name="hotline_desc">Need immediate safety intervention? Dial national helpline 109 or call our 24/7 advocate desk.</string>
+
+    <string name="awareness_stories">Awareness &amp; Stories</string>
+    <string name="bangladesh_feed">Bangladesh Feed</string>
+    <string name="safety_tips_chip">Safety Tips</string>
+    <string name="cyber_safety">Cyber Safety</string>
+    <string name="trending_legal_guide">TRENDING LEGAL GUIDE</string>
+    <string name="read_time">6 min read</string>
+    <string name="trending_title">Know Your Rights Under the Digital Security Act &amp; Cyber Safety Guidelines in Bangladesh</string>
+    <string name="trending_desc">Essential protections against cyber stalking, unauthorized image sharing, and online...</string>
+    <string name="read_guide">Read Guide</string>
+
+    <string name="share_experience_title">Have an experience to share?</string>
+    <string name="share_experience_desc">Share anonymously with our supportive community to help others.</string>
+    <string name="write">Write</string>
+
+    <string name="anonymous_sister">Anonymous Sister</string>
+    <string name="real_stories">Real Stories</string>
+    <string name="story_title">Breaking the Silence: Finding Support after Workplace Harassment</string>
+    <string name="story_snippet">"For months I felt isolated, afraid of losing my career. Reaching out through community legal aid was the turning point that restored my confidence and led to institutional accountability..."</string>
+
+    <string name="cyber_safety_wing">Cyber Safety Wing</string>
+    <string name="interactive_checklist">Interactive Checklist</string>
+    <string name="guide_box_title">5 Practical Steps to Secure Your Social Media &amp; WhatsApp Accounts</string>
+    <string name="guide_box_sub">Includes 2FA Setup Guide</string>
+    <string name="guide_snippet">Learn two-factor authentication, privacy restrictions for contacts, and instant recovery codes to prevent hacking and identity impersonation.</string>
+    <string name="save_guide">Save Guide</string>
+
+    <string name="legal_cell">Women &amp; Child Legal Cell</string>
+    <string name="legal_protection">Legal Protection</string>
+    <string name="protection_title">What to Do if You Face Street Harassment: Your Legal Protections</string>
+    <string name="protection_snippet">A comprehensive protocol for gathering digital evidence, asserting your presence calmly, and filing a formal GD at local Thanas without distress.</string>
+    <string name="read_action_steps">Read Action Steps</string>
+    <string name="share_story_fab">Share Story</string>
+    <string name="search_hint">Search</string>
+    <string name="filter">Filter</string>
+    <string name="desc_like">Like</string>
+    <string name="desc_comment">Comment</string>
+    <string name="desc_save">Save</string>
+    <string name="desc_share">Share</string>
+    <string name="official_advisory">Official Advisory • Updated</string>
+    <string name="helpline_info">National Helpline 109\nDirect Police Support</string>
+    <string name="ipc_info">Section 509 IPC\nStrict Penalties</string>
 </resources>
