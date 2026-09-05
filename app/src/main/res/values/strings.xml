@@ -341,6 +341,62 @@
     <string name="case_id_2">EH-2026-000124</string>
     <string name="case_id_3">EH-2026-000118</string>
     <string name="case_id_4">EH-2026-000095</string>
+    <string name="case_id_5">EH-2026-000115</string>
+
+    <string name="terminal_id">Terminal #8D-09</string>
+    <string name="vault_status_bar">256-Bit SHA Tamper-Proof Vault</string>
+    <string name="sys_ok_synced">SYS OK: SYNCED</string>
+
+    <string name="cryptographic_status">Cryptographic Status</string>
+    <string name="legal_protocol">Bangladesh Legal Evidence Protocol v2.4</string>
+    <string name="immutable">IMMUTABLE</string>
+
+    <string name="exhibits_sealed_count">4,892</string>
+    <string name="exhibits_sealed_label">Encrypted\nExhibits Sealed</string>
+    <string name="integrity_violations_count">0</string>
+    <string name="integrity_violations_label">Integrity\nViolations</string>
+    <string name="audit_chain_count">100%</string>
+    <string name="audit_chain_label">Audit Chain\nVerified</string>
+
+    <string name="search_vault_hint">Search by Case ID (e.g. EH-2026) or Hash check</string>
+    <string name="all_exhibits_tab">All Exhibits 4.8k</string>
+    <string name="audio_recordings_tab">Audio Recordings</string>
+    <string name="forensic_images_tab">Forensic Images</string>
+
+    <string name="exhibit_id_1">Exhibit #EX-9041</string>
+    <string name="exhibit_audio_title">Banani Incident Ambient Audio Clip (0:45s)</string>
+    <string name="sha_256_prefix">SHA-256: </string>
+    <string name="sha_256_val">e3b8c44238fc1c145afbf4c899bf32427ae...</string>
+    <string name="play_encrypted_audio">Play Encrypted Audio</string>
+    <string name="export_court_dossier">Export Court Dossier</string>
+    <string name="verified_tamper_free">Verified\nTamper-Free</string>
+
+    <string name="exhibit_id_2">Exhibit #EX-9038</string>
+    <string name="exhibit_images_title">5 WhatsApp Harassment Forensic Captures</string>
+    <string name="metadata_exif_preserved">Metadata EXIF Preserved</string>
+    <string name="hash_verified">Hash Verified</string>
+    <string name="inspect_watermarked">Inspect Watermarked Images</string>
+    <string name="send_to_cyber_police">Send to Cyber Police</string>
+
+    <string name="exhibit_id_3">Exhibit #EX-9029</string>
+    <string name="exhibit_medical_title">DMCH Forensic &amp; Medical Intake Summary</string>
+    <string name="sealed_by_doctor">Sealed by Dr. R. Begum (OCC) Digital Seal #80-991</string>
+    <string name="pgp_signed">256-Bit PGP Signed</string>
+    <string name="download_signed_pdf">Download Signed PDF</string>
+
+    <string name="audio_tag">Audio</string>
+    <string name="images_5_tag">Images (5)</string>
+    <string name="medical_pdf_tag">Medical/PDF</string>
+    <string name="six_m_ago">6m ago</string>
+    <string name="twenty_eight_m_ago">28m ago</string>
+    <string name="one_h_twelve_m_ago">1h 12m ago</string>
+    <string name="plus_2_more">+2\nMore</string>
+    <string name="gps_banani_affirmed">GPS: Banani Rd 11\n(Affirmed)</string>
+    <string name="inspect_images_btn">Inspect\nWatermarked\nImages</string>
+    <string name="send_cyber_police_btn">Send to\nCyber\nPolice</string>
+    <string name="audio_progress_val">0:14 / 0:45</string>
+
+    <string name="vault_ledger_desc">Tamper-Proof Ledger: All access requests are logged with officer biometric timestamp &amp; synced to Dhaka HQ Central Safety Repository.</string>
 
     <string name="logout">Log Out of Account</string>
     <string name="quick_sos">Quick SOS</string>
