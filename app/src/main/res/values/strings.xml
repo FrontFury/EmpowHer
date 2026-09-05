@@ -275,6 +275,23 @@
     <string name="phone_bnwla_shelter">01714088857</string>
     <string name="phone_dhaka_ahsania">02-9123400</string>
 
+    <string name="cases_per_day">24 Cases per/24h</string>
+    <string name="immediate_attention">Immediate attention</string>
+    <string name="legal_teams">BNWLA &amp; ASK Teams</string>
+    <string name="sla_countdown">3m 52s SLA</string>
+    <string name="incident_id_1">#CR-1091</string>
+    <string name="user_name_1">A. Sultana (Verified Citizen)</string>
+    <string name="location_time_1">Block E, Banani, Dhaka • 8 mins ago</string>
+    <string name="incident_desc_1">User triggered SOS via Triple-Click. Ambient audio captures verbal threats and aggression in public...</string>
+    <string name="audio_clips_tag">2 Audio Clips (0:45s)</string>
+    <string name="gps_accuracy_tag">Live GPS (Accuracy 4m)</string>
+
+    <string name="safe_passage_warning">SAFE PASSAGE WARNING</string>
+    <string name="twelve_min_ago">12m\nago</string>
+    <string name="mirpur_incident_title">Street harassment near Mirpur 10 roundabout</string>
+    <string name="mirpur_incident_desc">\&quot;Group of men gathering near footover bridge after 8:30 PM taking photos without consent. Caution to universi...\&quot;</string>
+    <string name="author_anon_student">Author: Anonymous Student ID</string>
+
     <string name="logout">Log Out of Account</string>
     <string name="quick_sos">Quick SOS</string>
 
@@ -284,4 +301,49 @@
     <string name="stories">Stories</string>
     <string name="users">Users</string>
     <string name="ops_desk">Ops Desk</string>
+
+    <string name="ops_console">OPS CONSOLE</string>
+    <string name="dhaka_hq">Dhaka HQ</string>
+    <string name="live_triage_desk">Live Triage Desk: 14 Field Units Online</string>
+    <string name="sos_sync_active">SOS Sync Active</string>
+    <string name="urgent_sos_queue">URGENT SOS QUEUE</string>
+    <string name="sla_timer">SLA &lt; 4m left</string>
+    <string name="critical_sos_count">8 Critical SOS</string>
+    <string name="breaches_desc">4 breaches imminent across Dhaka &amp; Chittagong</string>
+    <string name="trigger_999">Trigger 999 Desk</string>
+    <string name="sync_field_gps">Sync Field GPS</string>
+    <string name="total_reports">Total Reports</string>
+    <string name="total_reports_val">1,482</string>
+    <string name="total_reports_growth">+12.4%</string>
+    <string name="critical_queue">Critical Queue</string>
+    <string name="critical_queue_val">8</string>
+    <string name="critical_expiring">6 expiring</string>
+    <string name="legal_review_label">Legal Review</string>
+    <string name="legal_review_val">142</string>
+    <string name="cases_label">Cases</string>
+    <string name="protected_citizens">Protected Citizens</string>
+    <string name="protected_citizens_val">48,250</string>
+    <string name="safe_circle_users">Safe Circle Users</string>
+    <string name="critical_sos_tab">Critical SOS</string>
+    <string name="triage_queue_tab">Triage Queue</string>
+    <string name="active_live_incidents">Active Live Incidents</string>
+    <string name="filter_by_division">Filter By Division</string>
+    <string name="physical_danger">PHYSICAL DANGER</string>
+    <string name="cyber_crime_extortion">CYBER CRIME &amp; EXTORTION</string>
+    <string name="domestic_sanctuary">DOMESTIC SANCTUARY REQ.</string>
+    <string name="call_counselor">Counselor</string>
+    <string name="view_case">View Case</string>
+    <string name="review_evidence">Review Evidence</string>
+    <string name="legal_escalation">Legal Escalation</string>
+    <string name="contact_occ">Contact One-Stop Crisis Center (OCC)</string>
+    <string name="community_safety_feed">Community Safety Feed Review</string>
+    <string name="pending_count">3 Pending</string>
+    <string name="approve_pin">Approve &amp; Pin</string>
+    <string name="reject">Reject</string>
+    <string name="geo_alert_title">Divisional Geo-Alert Broadcast</string>
+    <string name="geo_alert_desc">Push instant high-priority safety directives directly into all user devices inside specific zones.</string>
+    <string name="dhaka_metro">Dhaka Metro</string>
+    <string name="chittagong">Chittagong</string>
+    <string name="sylhet">Sylhet</string>
+    <string name="all_divisions">All Divisions</string>
 </resources>

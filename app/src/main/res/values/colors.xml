@@ -11,4 +11,9 @@
 
     <color name="background_light">#F5F5F7</color>
     <color name="surface_light">#FFFFFF</color>
+
+    <color name="emergency_red">#E91E63</color>
+    <color name="admin_purple">#311B92</color>
+    <color name="admin_purple_light">#7E57C2</color>
+    <color name="green_growth">#4CAF50</color>
 </resources>

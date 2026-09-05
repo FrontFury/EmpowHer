@@ -7,8 +7,23 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.empowher.R
 
+import com.example.empowher.databinding.FragmentTriageBinding
+
 class TriageFragment : Fragment() {
-    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
-        return inflater.inflate(R.layout.fragment_triage, container, false)
+    private var _binding: FragmentTriageBinding? = null
+    private val binding get() = _binding!!
+
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View {
+        _binding = FragmentTriageBinding.inflate(inflater, container, false)
+        return binding.root
+    }
+
+    override fun onDestroyView() {
+        super.onDestroyView()
+        _binding = null
     }
 }
