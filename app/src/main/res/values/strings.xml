@@ -574,4 +574,58 @@
     <string name="review">Review</string>
     <string name="story_time_1_full">• 15m ago</string>
     <string name="story_time_2_full">• 1h ago</string>
+
+    <string name="dhaka_hq_badge">DHAKA HQ</string>
+    <string name="ops_desk_subtitle">Emergency Dispatch, Telephony &amp; Geo-Broadcast</string>
+    <string name="super_admin_name">Barrister\nTasneem A.</string>
+    <string name="super_admin_role">Super Admin &amp; Legal Ops</string>
+    <string name="level_4">LEVEL\n4</string>
+    <string name="dhaka_national_desk">Dhaka National Desk</string>
+    <string name="ops_shift_time">08:00 - 20:00 BST</string>
+
+    <string name="operational_readiness">Operational Readiness</string>
+    <string name="all_synced">ALL SYNCED</string>
+    <string name="police_bridge_999">999 Police Bridge</string>
+    <string name="connected_latency">Connected (Latency 42ms)</string>
+    <string name="occ_hospital_beds">OCC Hospital Beds</string>
+    <string name="beds_available">18 / 24 Available</string>
+    <string name="bed_locations">Sylhet, DMCH, Chittag...</string>
+    <string name="legal_hotline_109">Legal Hotline 109</string>
+    <string name="direct_sync_active">Direct Sync Active</string>
+    <string name="field_responders_label">Field Responders</string>
+    <string name="units_patrolling">14 Units Patrolling</string>
+    <string name="on_grid">On Grid</string>
+
+    <string name="geo_alert_broadcast">Divisional Geo-Alert Broadcast</string>
+    <string name="geo_alert_sub">Instant cell-tower priority notification</string>
+    <string name="select_division">Select Division</string>
+    <string name="dhaka_division_full">Dhaka Division (Metro &amp; Suburbs)</string>
+    <string name="alert_severity">Alert Severity</string>
+    <string name="urgent_directive">Urgent Directive</string>
+    <string name="advisory_bulletin">Advisory Bulletin</string>
+    <string name="directive_message_label">Directive Message</string>
+    <string name="directive_message_hint">Enter emergency directive...</string>
+    <string name="broadcast_now_btn">Broadcast Push Notification Now</string>
+
+    <string name="rapid_hotline_dispatch">Rapid Hotline Dispatch</string>
+    <string name="priority_patch">Priority Patch</string>
+    <string name="dmp_women_support">DMP Women Support Cell</string>
+    <string name="voip_bridge_desc">Direct encrypted VoIP bridge</string>
+    <string name="national_999_desk">National 999 Desk</string>
+    <string name="hotline_tier_1">Hotline tier 1 direct line</string>
+    <string name="occ_dmch">One-Stop Crisis Center DMCH</string>
+    <string name="medical_triage_team">Medical triage &amp; trauma team</string>
+    <string name="patch">Patch</string>
+
+    <string name="system_security_seal">System Security &amp; Cryptographic Seal</string>
+    <string name="verified">Verified</string>
+    <string name="audit_chain_label_ops">SHA-256 Audit chain:</string>
+    <string name="audit_chain_status">e3b0c442... healthy</string>
+    <string name="backup_node_label">Backup Node:</string>
+    <string name="backup_node_val">BGD-Sylhet-02 Synchronized</string>
+    <string name="stealth_kill_switch">Stealth Kill-Switch</string>
+    <string name="kill_switch_desc">Purges active session caches remotely</string>
+    <string name="live_label">Live</string>
+    <string name="seventy_five_percent">75%</string>
+    <string name="admin_initials">TA</string>
 </resources>
