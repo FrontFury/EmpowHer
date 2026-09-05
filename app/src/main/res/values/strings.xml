@@ -292,6 +292,56 @@
     <string name="mirpur_incident_desc">\&quot;Group of men gathering near footover bridge after 8:30 PM taking photos without consent. Caution to universi...\&quot;</string>
     <string name="author_anon_student">Author: Anonymous Student ID</string>
 
+    <string name="all_incidents_title">All Incident Cases &amp; Dossiers</string>
+    <string name="live_feed">Live Feed</string>
+    <string name="search_cases_hint">Search Case ID, Victim alias, Division...</string>
+    <string name="dhaka_all_clusters">DIV: Dhaka (All Clusters)</string>
+    <string name="crits_pending_filter">8 Crits Pending</string>
+    <string name="all_cases_count">All (1,482)</string>
+    <string name="urgent_sos_count">Urgent SOS (8)</string>
+    <string name="under_review_count">Under Review (24)</string>
+
+    <string name="physical_assault_threat">Physical Assault &amp; Threat</string>
+    <string name="cyber_stalking_leaks">Cyber Stalking &amp; Image Leaks</string>
+    <string name="workplace_intimidation">Workplace Intimidation</string>
+    <string name="domestic_violence_sanctuary">Domestic Violence Sanctuary</string>
+
+    <string name="critical_timer">Critical - 2m left</string>
+    <string name="legal_escalation_tag">Legal Escalation</string>
+    <string name="internal_committee_review">Internal Committee Review</string>
+    <string name="resolved_tag">Resolved</string>
+
+    <string name="banani_block_e">Banani Block E Dhaka</string>
+    <string name="chittagong_panchlaish">Chittagong Panchlaish</string>
+    <string name="motijheel_ca_dhaka">Motijheel C/A Dhaka</string>
+    <string name="amberkhana_sylhet">Amberkhana Sylhet</string>
+
+    <string name="verified_sultana">Verified (A. Sultana)</string>
+    <string name="shielded_id_884">Shielded ID #884</string>
+    <string name="corporate_sector">Corporate Sector</string>
+
+    <string name="audio_gps_ping">2 Audio Files + GPS Ping</string>
+    <string name="screenshots_exhibits">5 Screenshots exhibits</string>
+
+    <string name="live_unit_engaged">Live Unit Engaged</string>
+    <string name="evidence_tamper_proof">Evidence Tamper-Proof</string>
+
+    <string name="assigned_dmp">Assigned: DMP Women Support Cell</string>
+    <string name="assigned_ask">Assigned: Ain o Salish Kendra (ASK)</string>
+    <string name="assigned_bnwla">Assigned: BNWLA Legal Aid</string>
+
+    <string name="action_log">Action Log</string>
+    <string name="assign_agency">Assign Agency</string>
+    <string name="view_evidence">View Evidence</string>
+    <string name="transfer_case">Transfer Case</string>
+    <string name="manage_link">Manage ></string>
+    <string name="batch_case_assignment">Batch Case Assignment</string>
+
+    <string name="case_id_1">EH-2026-000130</string>
+    <string name="case_id_2">EH-2026-000124</string>
+    <string name="case_id_3">EH-2026-000118</string>
+    <string name="case_id_4">EH-2026-000095</string>
+
     <string name="logout">Log Out of Account</string>
     <string name="quick_sos">Quick SOS</string>
 
