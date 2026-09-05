@@ -398,6 +398,25 @@
 
     <string name="vault_ledger_desc">Tamper-Proof Ledger: All access requests are logged with officer biometric timestamp &amp; synced to Dhaka HQ Central Safety Repository.</string>
 
+    <string name="nusrat_name">Nusrat Jahan</string>
+    <string name="nusrat_location">Banani, Dhaka</string>
+    <string name="phone_label">Phone:</string>
+    <string name="reports_label">Reports:</string>
+    <string name="status_label">Status:</string>
+
+    <string name="farhana_name">Adv. Farhana Rahman</string>
+    <string name="active_cases_count">14</string>
+    <string name="active_cases_label_short">Active Cases</string>
+    <string name="bar_council_label">Bar Council</string>
+    <string name="verified_label">Verified</string>
+
+    <string name="tanya_name">Sub-Inspector Tanya K.</string>
+    <string name="total_label">Total</string>
+    <string name="citizens_label">Citizens</string>
+    <string name="privacy_label">Privacy</string>
+    <string name="user_sh_884">User #SH-884</string>
+
+    <string name="terminal_id_users">Terminal #BD-09</string>
     <string name="logout">Log Out of Account</string>
     <string name="quick_sos">Quick SOS</string>
 
@@ -452,4 +471,50 @@
     <string name="chittagong">Chittagong</string>
     <string name="sylhet">Sylhet</string>
     <string name="all_divisions">All Divisions</string>
+
+    <string name="users_subtitle">Protected Citizens &amp; Field Responders</string>
+    <string name="identity_shielded_label">Identity Shielded</string>
+    <string name="identity_shielded_val">92%</string>
+    <string name="responders_label">Responders</string>
+    <string name="responders_val">64</string>
+    <string name="search_users_hint">Search by masked ID, phone, name</string>
+    <string name="all_users_tab">All Users</string>
+    <string name="shielded_citizens_tab">Shielded Citizens</string>
+    <string name="legal_counsel_tab">Legal Counsel</string>
+    <string name="add_field_staff">Add Field Staff / Legal Partner</string>
+
+    <string name="shielded_citizen">Shielded Citizen</string>
+    <string name="chittagong_metro">Chittagong Metro</string>
+    <string name="identity_status_label">Identity Status:</string>
+    <string name="identity_status_val">Biometric Encrypted + Real Name Hidden</string>
+    <string name="active_cases_label">Active Cases:</string>
+    <string name="cyber_case_val">1 Cyber Case</string>
+    <string name="emergency_contacts_label">Emergency Contacts:</string>
+    <string name="synced_val">3 Synced</string>
+    <string name="sos_trigger_label">SOS Trigger:</string>
+    <string name="enabled_val">Enabled</string>
+    <string name="view_activity_log">View Activity Log</string>
+    <string name="emergency_ring">Emergency Ring</string>
+
+    <string name="verified_citizen">Verified Citizen</string>
+    <string name="nusrat_phone">+880 1712-***318</string>
+    <string name="nusrat_reports">2 Filed (Resolved)</string>
+    <string name="safe_circle_active">Safe Circle Active</string>
+    <string name="manage_profile">Manage Profile</string>
+    <string name="audit_access">Audit Access</string>
+
+    <string name="assigned_legal_partner">Assigned Legal Partner (ASK)</string>
+    <string name="rating_val">4.9 ★</string>
+    <string name="reviews_val">Rating (48 rev)</string>
+    <string name="bar_council_verified">Bar Council Verified</string>
+    <string name="dispatch_case">Dispatch Case</string>
+    <string name="message">Message</string>
+
+    <string name="dmp_support_desk">DMP Women Support Desk</string>
+    <string name="dmp_org">Dhaka Metropolitan Police</string>
+    <string name="unit_label">Unit:</string>
+    <string name="unit_val">Central Command &amp; DMP Hotzone Patrol</string>
+    <string name="duty_status">On-Duty • 12m avg response</string>
+    <string name="call_direct">Call Direct</string>
+    <string name="field_ping">Field Ping</string>
 </resources>
