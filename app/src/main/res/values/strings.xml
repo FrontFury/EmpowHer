@@ -517,4 +517,61 @@
     <string name="duty_status">On-Duty • 12m avg response</string>
     <string name="call_direct">Call Direct</string>
     <string name="field_ping">Field Ping</string>
+
+    <string name="dhaka_hq_console">Dhaka HQ Console</string>
+    <string name="stories_awareness_title">Stories &amp; Awareness</string>
+    <string name="live_sync">Live Sync</string>
+    <string name="stories_subtitle_admin">Community Voices, Survivor Experiences &amp; Safety Feed Moderation</string>
+
+    <string name="safety_protocol_title">Content Safety Protocol</string>
+    <string name="mandatory">MANDATORY</string>
+    <string name="safety_protocol_desc">Ensure no victim names, phone numbers, or identifiable addresses are leaked in public survivor stories. Strictly redact before broadcast.</string>
+
+    <string name="pending_review_tab">Pending Review 3</string>
+    <string name="published_tab">Published (240)</string>
+    <string name="flagged_tab">Flagged</string>
+
+    <string name="sla_urgency">SLA Urgency</string>
+    <string name="sla_urgency_val">98.4%</string>
+    <string name="sla_target">&lt; 20m target</string>
+    <string name="auto_sanitized">Auto-Sanitized</string>
+    <string name="auto_sanitized_val">14</string>
+    <string name="today">Today</string>
+    <string name="active_squads">Active Squads</string>
+    <string name="active_squads_val">6</string>
+
+    <string name="story_id_1">#ST-412</string>
+    <string name="story_time_1">15m ago</string>
+    <string name="workplace_transit">Workplace &amp; Transit</string>
+    <string name="anon_sister_mirpur">Anonymous Sister (Mirpur 10, Dhaka)</string>
+    <string name="story_title_1">How I stood up to verbal threats on the Mirpur metro concourse</string>
+    <string name="story_desc_1">\&quot;When two men began blocking the exit stairs, I activated my EmpowHer sound beacon and bystander alert. Within seconds...\&quot;</string>
+    <string name="ai_risk_assessment">AI Risk Assessment</string>
+    <string name="risk_low_desc">Low Risk • No PII Detected • Supportive Tone</string>
+    <string name="approve_publish">Approve &amp; Publish</string>
+    <string name="redact">Redact</string>
+
+    <string name="story_id_2">#ST-411</string>
+    <string name="story_time_2">1h ago</string>
+    <string name="action_needed">Action Needed</string>
+    <string name="anon_student_eden">Anonymous Student (Eden College)</string>
+    <string name="story_title_2">Caution near Nilkhet intersection after dusk</string>
+    <string name="story_desc_2">\&quot;Beware of motorcycle riders snatching bags near Gate 2... Dhaka Metro-HA-44-XXXX was seen circling twice around 7:45 PM.\&quot;</string>
+    <string name="pii_flag_detected">PII Flag Detected</string>
+    <string name="pii_flag_desc">Contains unverified license plate number. Auto-redaction suggested.</string>
+    <string name="approve_sanitized">Approve Sanitized</string>
+
+    <string name="story_id_3">#ST-408</string>
+    <string name="story_time_3">3h ago</string>
+    <string name="pinned_to_feed">Pinned to Feed</string>
+    <string name="legal_cell_contributor">Legal Cell Contributor</string>
+    <string name="legal_rights_dsa">Category: Legal Rights &amp; DSA</string>
+    <string name="story_title_3">Filing a GD at local Thana without intimidation</string>
+    <string name="broadcast_official_advisory">Broadcast Official Advisory</string>
+    <string name="hq_label">HQ</string>
+    <string name="ops_label">OPS</string>
+    <string name="dhaka_metro_label">Dhaka Metro</string>
+    <string name="review">Review</string>
+    <string name="story_time_1_full">• 15m ago</string>
+    <string name="story_time_2_full">• 1h ago</string>
 </resources>
