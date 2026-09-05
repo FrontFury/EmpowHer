@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_triage"
+        android:icon="@drawable/ic_activity"
+        android:title="@string/triage" />
+    <item
+        android:id="@+id/nav_cases"
+        android:icon="@drawable/ic_reports"
+        android:title="@string/cases" />
+    <item
+        android:id="@+id/nav_vault"
+        android:icon="@drawable/ic_security"
+        android:title="@string/vault" />
+    <item
+        android:id="@+id/nav_stories"
+        android:icon="@drawable/ic_awareness"
+        android:title="@string/stories" />
+    <item
+        android:id="@+id/nav_users"
+        android:icon="@drawable/ic_group"
+        android:title="@string/users" />
+    <item
+        android:id="@+id/nav_ops_desk"
+        android:icon="@drawable/ic_person"
+        android:title="@string/ops_desk" />
+</menu>

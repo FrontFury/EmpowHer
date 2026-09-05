@@ -23,4 +23,10 @@
     <style name="CircleImageView">
         <item name="cornerSize">50%</item>
     </style>
+
+    <style name="AdminNavActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/primary</item>
+        <item name="android:width">64dp</item>
+        <item name="android:height">40dp</item>
+    </style>
 </resources>

@@ -277,4 +277,11 @@
 
     <string name="logout">Log Out of Account</string>
     <string name="quick_sos">Quick SOS</string>
+
+    <string name="triage">Triage</string>
+    <string name="cases">Cases</string>
+    <string name="vault">Vault</string>
+    <string name="stories">Stories</string>
+    <string name="users">Users</string>
+    <string name="ops_desk">Ops Desk</string>
 </resources>
