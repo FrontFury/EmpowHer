@@ -30,6 +30,21 @@ class ReportsFragment : Fragment() {
 
         setupChips()
         setupRecyclerView()
+
+        binding.fabAddReport.setOnClickListener {
+            navigateToAddReport()
+        }
+
+        binding.btnReportIncident.setOnClickListener {
+            navigateToAddReport()
+        }
+    }
+
+    private fun navigateToAddReport() {
+        parentFragmentManager.beginTransaction()
+            .replace(R.id.fragmentContainer, AddReportFragment())
+            .addToBackStack(null)
+            .commit()
     }
 
     private fun setupChips() {
