@@ -1,7 +1,7 @@
 # 🌸 EmpowHer
 
 <p align="center">
-  <img src="app/src/main/res/drawable/logo.png" alt="EmpowHer Logo" width="220"/>
+  <img src="./app/src/main/res/drawable/LOGO.png" alt="EmpowHer Logo" width="220"/>
 </p>
 
 <h3 align="center">
@@ -71,17 +71,17 @@
 
 ### Logo
 <p align="center">
-  <img src="app/src/main/res/drawable/logo.png" alt="EmpowHer Logo" width="120"/>
+  <img src="./app/src/main/res/drawable/LOGO.png" alt="EmpowHer Logo" width="120"/>
 </p>
 
 ### App Icon
 <p align="center">
-  <img src="app/src/main/res/drawable/appicon.png" alt="EmpowHer App Icon" width="100"/>
+  <img src="./app/src/main/res/drawable/AppIcon.png" alt="EmpowHer App Icon" width="100"/>
 </p>
 
 ### Splash Screen
 <p align="center">
-  <img src="app/src/main/res/drawable/splash.png" alt="EmpowHer Splash Screen" width="200"/>
+  <img src="./app/src/main/res/drawable/Splash.png" alt="EmpowHer Splash Screen" width="200"/>
 </p>
 
 ### Tagline
