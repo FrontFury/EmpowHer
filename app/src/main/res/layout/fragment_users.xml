@@ -298,6 +298,7 @@
                         android:src="@drawable/ic_search"
                         app:tint="@color/neutral" />
                     <EditText
+                        android:id="@+id/etSearch"
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="8dp"
@@ -307,6 +308,7 @@
                         android:textSize="13sp"
                         android:inputType="text" />
                     <ImageView
+                        android:id="@+id/ivFilter"
                         android:layout_width="20dp"
                         android:layout_height="20dp"
                         android:layout_marginStart="8dp"
@@ -327,6 +329,7 @@
                     android:layout_height="wrap_content"
                     android:orientation="horizontal">
                     <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnTabAll"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/admin_purple"
@@ -336,6 +339,7 @@
                         android:textSize="11sp"
                         app:cornerRadius="20dp" />
                     <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnTabShielded"
                         style="@style/Widget.MaterialComponents.Button.TextButton"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -345,6 +349,7 @@
                         android:textColor="@color/neutral"
                         android:textSize="11sp" />
                     <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnTabLegal"
                         style="@style/Widget.MaterialComponents.Button.TextButton"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -358,6 +363,7 @@
 
             <!-- Add Field Staff Button -->
             <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnAddFieldStaff"
                 android:layout_width="match_parent"
                 android:layout_height="54dp"
                 android:layout_marginHorizontal="20dp"
@@ -545,6 +551,7 @@
                         android:layout_marginTop="20dp"
                         android:orientation="horizontal">
                         <com.google.android.material.button.MaterialButton
+                            android:id="@+id/btnViewActivityLog1"
                             style="@style/Widget.MaterialComponents.Button.OutlinedButton"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
@@ -556,6 +563,7 @@
                             app:cornerRadius="8dp"
                             app:strokeColor="#E0E0E0" />
                         <com.google.android.material.button.MaterialButton
+                            android:id="@+id/btnEmergencyRing1"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1.2"
@@ -717,6 +725,7 @@
                         android:layout_marginTop="20dp"
                         android:orientation="horizontal">
                         <com.google.android.material.button.MaterialButton
+                            android:id="@+id/btnManageProfile2"
                             style="@style/Widget.MaterialComponents.Button.OutlinedButton"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
@@ -728,6 +737,7 @@
                             app:cornerRadius="8dp"
                             app:strokeColor="@color/primary" />
                         <com.google.android.material.button.MaterialButton
+                            android:id="@+id/btnAuditAccess2"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
@@ -880,6 +890,7 @@
                         android:layout_marginTop="20dp"
                         android:orientation="horizontal">
                         <com.google.android.material.button.MaterialButton
+                            android:id="@+id/btnDispatchCase3"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
@@ -892,6 +903,7 @@
                             app:icon="@drawable/ic_reports"
                             app:iconTint="@color/white" />
                         <com.google.android.material.button.MaterialButton
+                            android:id="@+id/btnMessage3"
                             style="@style/Widget.MaterialComponents.Button.OutlinedButton"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
@@ -1039,6 +1051,7 @@
                         android:layout_marginTop="20dp"
                         android:orientation="horizontal">
                         <com.google.android.material.button.MaterialButton
+                            android:id="@+id/btnCallDirect4"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
@@ -1051,6 +1064,7 @@
                             app:icon="@drawable/ic_phone"
                             app:iconTint="@color/white" />
                         <com.google.android.material.button.MaterialButton
+                            android:id="@+id/btnFieldPing4"
                             style="@style/Widget.MaterialComponents.Button.OutlinedButton"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
