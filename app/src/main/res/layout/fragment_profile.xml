@@ -364,9 +364,13 @@
 
                         <!-- Trusted Emergency Contacts -->
                         <RelativeLayout
+                            android:id="@+id/layoutEmergencyContacts"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:padding="16dp">
+                            android:padding="16dp"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:background="?attr/selectableItemBackground">
                             <ImageView
                                 android:id="@+id/ic1"
                                 android:layout_width="40dp"
@@ -411,9 +415,13 @@
 
                         <!-- Emergency SOS Settings -->
                         <RelativeLayout
+                            android:id="@+id/layoutSosSettings"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:padding="16dp">
+                            android:padding="16dp"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:background="?attr/selectableItemBackground">
                             <ImageView
                                 android:id="@+id/ic2"
                                 android:layout_width="40dp"
@@ -479,9 +487,13 @@
 
                         <!-- My Incident Reports -->
                         <RelativeLayout
+                            android:id="@+id/layoutIncidentReports"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:padding="16dp">
+                            android:padding="16dp"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:background="?attr/selectableItemBackground">
                             <ImageView
                                 android:id="@+id/ic3"
                                 android:layout_width="40dp"
@@ -520,9 +532,13 @@
 
                         <!-- My Stories -->
                         <RelativeLayout
+                            android:id="@+id/layoutMyStories"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:padding="16dp">
+                            android:padding="16dp"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:background="?attr/selectableItemBackground">
                             <ImageView
                                 android:id="@+id/ic4"
                                 android:layout_width="40dp"
@@ -561,9 +577,13 @@
 
                         <!-- Saved Awareness -->
                         <RelativeLayout
+                            android:id="@+id/layoutSavedAwareness"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:padding="16dp">
+                            android:padding="16dp"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:background="?attr/selectableItemBackground">
                             <ImageView
                                 android:id="@+id/ic5"
                                 android:layout_width="40dp"
@@ -670,9 +690,13 @@
 
                         <!-- Location Sharing -->
                         <RelativeLayout
+                            android:id="@+id/layoutLocationSharing"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:padding="16dp">
+                            android:padding="16dp"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:background="?attr/selectableItemBackground">
                             <ImageView
                                 android:id="@+id/ic7"
                                 android:layout_width="40dp"
@@ -738,9 +762,13 @@
 
                         <!-- Help Center -->
                         <RelativeLayout
+                            android:id="@+id/layoutHelpCenter"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:padding="16dp">
+                            android:padding="16dp"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:background="?attr/selectableItemBackground">
                             <ImageView
                                 android:id="@+id/ic8"
                                 android:layout_width="40dp"
@@ -779,9 +807,13 @@
 
                         <!-- About EmpowHer -->
                         <RelativeLayout
+                            android:id="@+id/layoutAbout"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:padding="16dp">
+                            android:padding="16dp"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:background="?attr/selectableItemBackground">
                             <ImageView
                                 android:id="@+id/ic9"
                                 android:layout_width="40dp"
